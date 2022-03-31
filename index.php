@@ -1,6 +1,12 @@
 <?php 
 
-echo "Hello World";
+$cadena = "Hello World";
+if($cadena=="Hello World"){
+    echo "Hello World";
+}
+else{
+    echo "Goodbye World";
+}
 
 
 ?>
